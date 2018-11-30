@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "908931510813",
+    "firebase_url": "https://myhostel-b91ee.firebaseio.com",
+    "project_id": "myhostel-b91ee",
+    "storage_bucket": "myhostel-b91ee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:908931510813:android:d94a3c5d97c59739",
+        "android_client_info": {
+          "package_name": "com.example.android.my_hostel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "908931510813-c55vu4fq473eisthkmjql1poa6nc9lid.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.my_hostel",
+            "certificate_hash": "b57535ac1fa6cba1322af6c5748bb8b44a1dd840"
+          }
+        },
+        {
+          "client_id": "908931510813-194eacvfrs17hqfear63ofdfch4gveji.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4gqtHva9NCDjlBeH9Sigb2si0tp2phSI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "908931510813-194eacvfrs17hqfear63ofdfch4gveji.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
